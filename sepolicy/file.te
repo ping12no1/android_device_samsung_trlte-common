@@ -11,6 +11,7 @@ type sysfs_sec_bamdmux, fs_type, sysfs_type;
 type sysfs_mdnie, fs_type, sysfs_type;
 type sysfs_modules, fs_type, sysfs_type;
 type sysfs_hal_pwr, fs_type, sysfs_type;
+type sysfs_ir, fs_type, sysfs_type;
 type sysfs_msm, fs_type, sysfs_type;
 type sysfs_sec_bsp, fs_type, sysfs_type;
 type sysfs_sec_led, fs_type, sysfs_type;
